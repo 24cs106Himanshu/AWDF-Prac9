@@ -1,0 +1,16 @@
+{
+  "name": "24cs106-awdf-practical-9",
+  "version": "1.0.0",
+  "description": "CHARUSAT ITUE301 Practical 9: In-Memory Caching and Query Optimization in Express & React",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "start:backend": "npm --prefix backend start",
+    "test:backend": "npm --prefix backend test",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint",
+    "test": "npm --prefix backend test"
+  },
+  "author": "Himanshu Varotariya (24CS106)",
+  "license": "ISC"
+}
